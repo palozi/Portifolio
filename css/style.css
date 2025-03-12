@@ -1,0 +1,18 @@
+body{
+    display: ;
+}
+.ftPerfil{
+    width: 200px; /* Define o tamanho da imagem */
+    height: 200px; /* Define o tamanho da imagem */
+    border-radius: 50%; /* Torna a imagem redonda */
+    object-fit: cover; /* Garante que a imagem preencha o espaço corretamente */
+    display: block;
+}
+.container {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    height: 100vh; /* Ocupa a tela toda */
+    margin: 50px;
+    background-color: rgb(243, 206, 128);
+    border-radius: 100px;
+}
