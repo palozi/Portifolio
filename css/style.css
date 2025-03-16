@@ -3,6 +3,7 @@ body{
     background-repeat: no-repeat;    /* Impede que a imagem se repita */
     background-size: cover;         /* Faz a imagem cobrir todo o espaço do elemento */
     background-position: center;    /* Centraliza a imagem */
+    font-family: "Cascadia Code", Consolas, monospace;
 }
 .ftPerfil{
     width: 200px; /* Define o tamanho da imagem */
