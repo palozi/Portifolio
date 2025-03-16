@@ -1,5 +1,8 @@
 body{
-    display: ;
+    background-image: url('../img/lula-3-660x372.jpg.webp'); /* Caminho da sua imagem */
+    background-repeat: no-repeat;    /* Impede que a imagem se repita */
+    background-size: cover;         /* Faz a imagem cobrir todo o espaço do elemento */
+    background-position: center;    /* Centraliza a imagem */
 }
 .ftPerfil{
     width: 200px; /* Define o tamanho da imagem */
@@ -7,12 +10,32 @@ body{
     border-radius: 50%; /* Torna a imagem redonda */
     object-fit: cover; /* Garante que a imagem preencha o espaço corretamente */
     display: block;
+    margin: -45px;
 }
 .container {
     display: flex;
-    justify-content: center; /* Centraliza horizontalmente */
-    height: 100vh; /* Ocupa a tela toda */
+    flex-direction: column;   /* Empilha elementos em coluna (vertical) */
+    align-items: center;      /* Centraliza horizontalmente */
+    justify-content: flex-start; /* Alinha no topo verticalmente */
+    
+    height: 70vh;
     margin: 50px;
     background-color: rgb(243, 206, 128);
-    border-radius: 100px;
+    border-radius: 50px;
+    margin-left: 300px;
+    margin-right: 300px;
+
+    gap: 50px;              /* espaçamento de 20px entre cada div */
+
+}
+.txt{
+    text-align: center;
+}
+.git a{
+    text-decoration: none;
+    color: inherit;
+}
+.instagram a{
+    text-decoration: none;
+    color: inherit;
 }
