@@ -19,7 +19,7 @@ body{
     align-items: center;      /* Centraliza horizontalmente */
     justify-content: flex-start; /* Alinha no topo verticalmente */
     
-    height: 70vh;
+    height: 100vh;
     margin: 50px;
     background-color: rgb(243, 206, 128);
     border-radius: 50px;
