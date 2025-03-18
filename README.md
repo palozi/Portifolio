@@ -12,7 +12,7 @@ Baixe o projeto ou clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/palozi/Portifolio.git
+git clone (https://palozi.github.io/Portifolio/)
 Abra o arquivo index.html no navegador.
 Aproveite a página e, se quiser, mexa no CSS para deixar do seu jeito.
 Quer contribuir?
