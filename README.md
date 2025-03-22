@@ -1,4 +1,4 @@
-#Portfólio_do_leandrao
+#Portfólio do leandrao
 
 Este é meu portfólio básico, criado para praticar HTML, CSS e mostrar um pouco de quem sou.
 
@@ -19,3 +19,4 @@ Quer contribuir?
 Sinta-se à vontade para abrir issues ou criar um pull request.
 Qualquer ajuda é bem-vinda, mesmo que seja para trocar cores ou ajustar margens!
 Feito com ☕ e diversão.
+ POR ALGUM MOTIVO O BOTAO PROJETOS N TA FUNCIONANDO NA HOSPEDAGEM !!! 😞
