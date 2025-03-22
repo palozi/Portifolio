@@ -1,4 +1,4 @@
-#Portfólio do leandrao
+#Portfólio_do_leandrao
 
 Este é meu portfólio básico, criado para praticar HTML, CSS e mostrar um pouco de quem sou.
 
