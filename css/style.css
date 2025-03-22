@@ -1,42 +1,41 @@
 body{
-    background-image: url('../img/lula-3-660x372.jpg.webp'); /* Caminho da sua imagem */
-    background-repeat: no-repeat;    /* Impede que a imagem se repita */
-    background-size: cover;         /* Faz a imagem cobrir todo o espaço do elemento */
-    background-position: center;    /* Centraliza a imagem */
+    background-image: url('../img/lula-3-660x372.jpg.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     font-family: "Cascadia Code", Consolas, monospace;
 }
-.ftPerfil{
-    width: 200px; /* Define o tamanho da imagem */
-    height: 200px; /* Define o tamanho da imagem */
-    border-radius: 50%; /* Torna a imagem redonda */
-    object-fit: cover; /* Garante que a imagem preencha o espaço corretamente */
+
+.ftPerfil {
+    width: 200px;
+    height: 200px;
+    border-radius: 250%;
+    object-fit: cover;
     display: block;
     margin: -45px;
 }
+
 .container {
     display: flex;
-    flex-direction: column;   /* Empilha elementos em coluna (vertical) */
-    align-items: center;      /* Centraliza horizontalmente */
-    justify-content: flex-start; /* Alinha no topo verticalmente */
-    
-    height: 100vh;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 130vh;
     margin: 50px;
     background-color: rgb(243, 206, 128);
     border-radius: 50px;
     margin-left: 300px;
     margin-right: 300px;
-
-    gap: 50px;              /* espaçamento de 20px entre cada div */
-
+    gap: 50px;
 }
-.txt{
+
+.txt {
+    text-align: center;
+    margin: 10px;
+}
+
+.meu_nome {
     text-align: center;
 }
-.git a{
-    text-decoration: none;
-    color: inherit;
-}
-.instagram a{
-    text-decoration: none;
-    color: inherit;
-}
+
+/* Ajustes para botões, título, etc., se quiser */

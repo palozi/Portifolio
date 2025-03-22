@@ -1,0 +1,23 @@
+/* Imagem de fundo */
+body {
+  background-image: url('../img/lula-3-660x372.jpg.webp'); /* Ajuste o caminho da imagem */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  font-family: "Cascadia Code", Consolas, monospace;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container amarelo centralizado */
+.my-yellow-container {
+  background-color: rgb(243, 206, 128);
+  border-radius: 50px;
+
+  /* Centra horizontalmente e define largura máxima */
+  margin: 40px auto;
+  max-width: 900px;
+
+  /* Se quiser que ocupe altura total da tela, troque por min-height: 100vh; */
+  /* min-height: 100vh; */
+}
